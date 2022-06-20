@@ -1,0 +1,25 @@
+{
+	"FileVersion" : 3,
+	"Version" : 30,
+	"VersionName" : "0.1",
+	"FriendlyName" : "UE LFS",
+	"Description" : "Unreal Engine LFS",
+	"Category" : "Source Control",
+	"CreatedBy" : "",
+	"CreatedByURL" : "",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EnabledByDefault" : true,
+	"CanContainContent" : false,
+	"IsBetaVersion" : true,
+	"Installed" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "UeLfs",
+			"Type" : "Editor",
+			"LoadingPhase" : "Default"
+		}
+	]
+}
